@@ -1,0 +1,38 @@
+body{
+    background-color: #ffccaa;
+    font-size: 14pt;
+    font-family: Tahoma;
+}
+a{
+    color: #a04000;
+}
+
+#voros{
+    float: left;
+    margin: 5pt 20pt 5pt 20pt;
+}
+h1{
+    color: #a04000;
+}
+#elso{
+    text-align: justify;
+    font-weight: bold;
+
+}
+#figaro{
+    float: right;
+    width: 195pt;
+    margin: 20pt 5pt 20pt 5pt;
+}
+#masodik{
+    text-align: justify;
+
+}
+table{
+    border: none;
+    width: 100%;
+}
+#forras{
+    text-align: end;
+    vertical-align: bottom;
+}
